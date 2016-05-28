@@ -1,5 +1,5 @@
 ; (function(global) {
-	var imgNum = 18, 
+	var imgNum = 8, 
 		imgList = [],
 		layoutDict = {
 			"PUZZLE" : "puzzle",
